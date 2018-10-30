@@ -1,0 +1,8 @@
+Security App v1.0
+
+Adam Bennett 10441363
+Jesheena Kaur 10446516
+Ritish Rana 10399230
+Pankaj Bohara 10395331
+
+This app was made for the CSI2108 Introduction to Mobile Applications Development assignment.
